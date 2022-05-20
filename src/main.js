@@ -8,6 +8,8 @@ import './styles/base.less'
 Vue.config.productionTip = false
 //导入vant
 import './utils/vant'
+//导入rem相关插件
+import 'amfe-flexible'
 
 new Vue({
   router,

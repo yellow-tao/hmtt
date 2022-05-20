@@ -1,14 +1,13 @@
 <template>
-  <div id="app">
-
-      <router-view></router-view>
+  <div>
+      我是中间内容
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app'
-};
+
+}
 </script>
 
 <style>
